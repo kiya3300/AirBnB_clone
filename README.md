@@ -10,7 +10,7 @@
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
 ## Installation
-* Clone this repository: git clone "https://github.com/Abinet508/AirBnB_clone.git"
+* Clone this repository: git clone "https://github.com/kiya3300/AirBnB_clone.git"
 * Access AirBnb directory: cd AirBnB_clone
 * Run hbnb(interactively): ./console and enter command
 * Run hbnb(non-interactively): echo "<command>" | ./console.py
@@ -60,7 +60,8 @@ EOF  all  count  create  destroy  help  quit  show  update
 
 All the code is tested with the unittest module. The test for the classes are inthe`test_models folder`.
 ## Authors
-* Abinet Tesfu    - [Abinet](https://github.com/Abinet508)
-* Susinios Legese - [Susinios](https://github.com/Susiniosgit)
+* Abel Yitages - [Abel](https://github.com/kiya3300)
+* Mehamud Salih - [Mehamud](https://github.com/Mehamud-salih)
  
-
+ 
+ 
